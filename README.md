@@ -2,13 +2,30 @@
     oneBook
 </h1>
 
+<p align="center">
+  <a href="https://github.com/TongxinV">
+    <img alt="tongxinv github" src="https://img.shields.io/badge/author-TongxinV-green.svg">
+  </a>
+  
+  <a href="http://blog.csdn.net/tongxinv">
+    <img alt="CSDN" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-ff69b4.svg">
+  </a>
+  
+  <a href="https://github.com/TongxinV/oneBook/issues">
+    <img src="https://img.shields.io/github/issues/TongxinV/oneBook.svg" alt="GitHub issues">
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/badge/%20liyanbin0027%40163.com-Chat-blue.svg" alt="YouXiang">
+  </a>
+  
+  <a href="">
+    <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Twitter URL">
+  </a>
+</p>
 
 
-[![](https://img.shields.io/badge/author-TongxinV-green.svg)](https://github.com/TongxinV)
-[![](https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-ff69b4.svg)](http://blog.csdn.net/tongxinv)
-[![GitHub issues](https://img.shields.io/github/issues/TongxinV/oneBook.svg)](https://github.com/TongxinV/oneBook/issues)
-![](https://img.shields.io/badge/%20liyanbin0027%40163.com-Chat-blue.svg)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
+
 
 > 随笔
 
