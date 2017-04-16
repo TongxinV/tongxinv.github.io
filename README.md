@@ -27,10 +27,7 @@
 
 
 
-> 随笔
-
-```s
-```      
+## 嵌入式应用开发与底层开发     
 
 
 **1.Basic external equipment**
@@ -50,7 +47,6 @@
 * [`linux线程控制`][3-3]
 
 **4.Language C and C Plus**
-
 
 
 **5.Linux-Driver Development**
@@ -81,6 +77,7 @@
 * [`从C语言的角度出发理解C++的封装继承和多态`](https://github.com/TongxinV/oneBook/issues/16)
 * [`内核链表实现分析与使用（双向环形链表）`](https://github.com/TongxinV/oneBook/issues/18)
 
+
 > 备忘录
 
 - [ ] `linux源码是一个很棒的教学素材，不单要学习如何开发，还要融会贯通它的一些设计方式设计理念，举一反三`
@@ -89,9 +86,6 @@
 
 - [ ] `完成文章``《Kconfig Makefile .config三者之间的关系（在内核中添加或去除某个驱动）》`
 
-- [ ] `出个专题--写一下接触过的驱动框架的源码分析（文章写了，但是可以blog也写简略写一下，方便自己查阅也可能帮助到其他人）`
-
-- [ ] `写文章的时候有时候需要总结有时候不需要总结，因为有时候需要对细节掌握要求高一点`
 
 
 
